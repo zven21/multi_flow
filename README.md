@@ -6,6 +6,8 @@
 [![Documentation](https://img.shields.io/badge/documentation-gray)](https://hexdocs.pm/multi_flow/)
 [![License](https://img.shields.io/hexpm/l/multi_flow.svg)](https://github.com/zven21/multi_flow/blob/main/LICENSE)
 
+**Language / 语言**: [English](README.md) | [中文](README_CN.md)
+
 A DSL and Builder pattern wrapper for `Ecto.Multi` that makes database transactions elegant, readable, and maintainable.
 
 ## Why MultiFlow?

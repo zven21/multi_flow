@@ -4,6 +4,8 @@
 [![Documentation](https://img.shields.io/badge/docs-hexpm-blue.svg)](https://hexdocs.pm/multi_flow)
 [![License](https://img.shields.io/hexpm/l/multi_flow.svg)](LICENSE)
 
+**Language / 语言**: [English](README.md) | [中文](README_CN.md)
+
 > 优雅的 DSL 和函数式构建器，用于 Ecto.Multi 事务处理
 
 MultiFlow 让你用优雅的方式编写 Ecto.Multi 事务，支持 **DSL 宏**和**函数式 Builder** 两种风格。
